@@ -1,0 +1,2 @@
+# Blooket
+Only for school
